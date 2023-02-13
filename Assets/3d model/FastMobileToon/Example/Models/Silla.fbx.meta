@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 57ecca41f2f83d44bb6596b30f19ad6a
+timeCreated: 1555370112
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ASIENTO1
+    100002: CAJON
+    100004: EXTRA
+    100006: GANCHO_I
+    100008: GANCHO_I1
+    100010: MESA
+    100012: MESA2
+    100014: PATAS_D
+    100016: PATAS_D1
+    100018: PATAS_D2
+    100020: PATAS_T
+    100022: RESPALDO1
+    100024: SILLA
+    100026: //RootNode
+    100028: TAPA4
+    100030: UNION
+    400000: ASIENTO1
+    400002: CAJON
+    400004: EXTRA
+    400006: GANCHO_I
+    400008: GANCHO_I1
+    400010: MESA
+    400012: MESA2
+    400014: PATAS_D
+    400016: PATAS_D1
+    400018: PATAS_D2
+    400020: PATAS_T
+    400022: RESPALDO1
+    400024: SILLA
+    400026: //RootNode
+    400028: TAPA4
+    400030: UNION
+    2300000: ASIENTO1
+    2300002: CAJON
+    2300004: EXTRA
+    2300006: GANCHO_I
+    2300008: GANCHO_I1
+    2300010: PATAS_D
+    2300012: PATAS_D1
+    2300014: PATAS_D2
+    2300016: PATAS_T
+    2300018: RESPALDO1
+    2300020: TAPA4
+    2300022: UNION
+    3300000: ASIENTO1
+    3300002: CAJON
+    3300004: EXTRA
+    3300006: GANCHO_I
+    3300008: GANCHO_I1
+    3300010: PATAS_D
+    3300012: PATAS_D1
+    3300014: PATAS_D2
+    3300016: PATAS_T
+    3300018: RESPALDO1
+    3300020: TAPA4
+    3300022: UNION
+    4300000: PATAS_D
+    4300002: PATAS_T
+    4300004: EXTRA
+    4300006: PATAS_D1
+    4300008: RESPALDO1
+    4300010: ASIENTO1
+    4300012: PATAS_D2
+    4300014: GANCHO_I
+    4300016: UNION
+    4300018: CAJON
+    4300020: GANCHO_I1
+    4300022: TAPA4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

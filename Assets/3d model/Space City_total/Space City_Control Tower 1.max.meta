@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: d592ff65c9e55ab4b8c106e427de2abb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 11
+    100002: 11 1
+    100004: Base
+    100006: building
+    100008: building 1
+    100010: building 2
+    100012: Glass
+    100014: glass
+    100016: glass 1
+    100018: Group001
+    100020: Group002
+    100022: Group003
+    100024: Group004
+    100026: Group005
+    100028: Group007
+    100030: lense
+    100032: lense 1
+    100034: lense 2
+    100036: Light
+    100038: main
+    100040: main 1
+    100042: Power plant_Fence_array
+    100044: Power plant_light
+    100046: Power plant_main
+    100048: repairshop_light
+    100050: repairshop_main
+    100052: Research Institute_antenna
+    100054: Research Institute_main
+    100056: Research Institute_main_light
+    100058: Research Institute_stand002
+    100060: Research Institute_stand004
+    100062: Research Institute_stand005
+    100064: Research Institute_stand006
+    100066: Research Institute_stand_light002
+    100068: Research Institute_stand_light004
+    100070: Research Institute_stand_light005
+    100072: Research Institute_stand_light006
+    100074: //RootNode
+    100076: sphere
+    100078: stand003
+    100080: stand004
+    100082: stand005
+    100084: stand006
+    100086: wheel
+    400000: 11
+    400002: 11 1
+    400004: Base
+    400006: building
+    400008: building 1
+    400010: building 2
+    400012: Glass
+    400014: glass
+    400016: glass 1
+    400018: Group001
+    400020: Group002
+    400022: Group003
+    400024: Group004
+    400026: Group005
+    400028: Group007
+    400030: lense
+    400032: lense 1
+    400034: lense 2
+    400036: Light
+    400038: main
+    400040: main 1
+    400042: Power plant_Fence_array
+    400044: Power plant_light
+    400046: Power plant_main
+    400048: repairshop_light
+    400050: repairshop_main
+    400052: Research Institute_antenna
+    400054: Research Institute_main
+    400056: Research Institute_main_light
+    400058: Research Institute_stand002
+    400060: Research Institute_stand004
+    400062: Research Institute_stand005
+    400064: Research Institute_stand006
+    400066: Research Institute_stand_light002
+    400068: Research Institute_stand_light004
+    400070: Research Institute_stand_light005
+    400072: Research Institute_stand_light006
+    400074: //RootNode
+    400076: sphere
+    400078: stand003
+    400080: stand004
+    400082: stand005
+    400084: stand006
+    400086: wheel
+    2100000: 'Material #1432'
+    2100002: 'Material #1433'
+    2100004: 'Material #1434'
+    2100006: 1
+    2100008: 'Material #1314'
+    2100010: 02 - Default
+    2100012: 'Material #1178'
+    2100014: 01 - Default
+    2100016: 'Material #2'
+    2100018: 'Material #1'
+    2100020: 'Material #0'
+    2100022: 'Material #4'
+    2100024: 07 - Default
+    2300000: Base
+    2300002: building
+    2300004: building 1
+    2300006: building 2
+    2300008: Glass
+    2300010: glass
+    2300012: glass 1
+    2300014: lense
+    2300016: lense 1
+    2300018: lense 2
+    2300020: Light
+    2300022: main
+    2300024: main 1
+    2300026: Power plant_Fence_array
+    2300028: Power plant_light
+    2300030: Power plant_main
+    2300032: repairshop_light
+    2300034: repairshop_main
+    2300036: Research Institute_antenna
+    2300038: Research Institute_main
+    2300040: Research Institute_main_light
+    2300042: Research Institute_stand002
+    2300044: Research Institute_stand004
+    2300046: Research Institute_stand005
+    2300048: Research Institute_stand006
+    2300050: Research Institute_stand_light002
+    2300052: Research Institute_stand_light004
+    2300054: Research Institute_stand_light005
+    2300056: Research Institute_stand_light006
+    2300058: sphere
+    2300060: wheel
+    3300000: Base
+    3300002: building
+    3300004: building 1
+    3300006: building 2
+    3300008: Glass
+    3300010: glass
+    3300012: glass 1
+    3300014: lense
+    3300016: lense 1
+    3300018: lense 2
+    3300020: Light
+    3300022: main
+    3300024: main 1
+    3300026: Power plant_Fence_array
+    3300028: Power plant_light
+    3300030: Power plant_main
+    3300032: repairshop_light
+    3300034: repairshop_main
+    3300036: Research Institute_antenna
+    3300038: Research Institute_main
+    3300040: Research Institute_main_light
+    3300042: Research Institute_stand002
+    3300044: Research Institute_stand004
+    3300046: Research Institute_stand005
+    3300048: Research Institute_stand006
+    3300050: Research Institute_stand_light002
+    3300052: Research Institute_stand_light004
+    3300054: Research Institute_stand_light005
+    3300056: Research Institute_stand_light006
+    3300058: sphere
+    3300060: wheel
+    4300000: Base
+    4300002: Glass
+    4300004: Light
+    4300006: lense
+    4300008: building
+    4300010: building
+    4300012: lense
+    4300014: lense
+    4300016: building
+    4300018: main
+    4300020: glass
+    4300022: main
+    4300024: wheel
+    4300026: sphere
+    4300028: glass
+    4300030: Power plant_main
+    4300032: Power plant_light
+    4300034: Power plant_Fence_array
+    4300036: Research Institute_main
+    4300038: Research Institute_antenna
+    4300040: Research Institute_main_light
+    4300042: Research Institute_stand004
+    4300044: Research Institute_stand_light004
+    4300046: Research Institute_stand005
+    4300048: Research Institute_stand_light005
+    4300050: Research Institute_stand002
+    4300052: Research Institute_stand_light002
+    4300054: Research Institute_stand006
+    4300056: Research Institute_stand_light006
+    4300058: repairshop_main
+    4300060: repairshop_light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

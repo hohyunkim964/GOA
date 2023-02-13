@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "320272363317",
+    "firebase_url": "https://goa-70875064.firebaseio.com",
+    "project_id": "goa-70875064",
+    "storage_bucket": "goa-70875064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320272363317:android:1a1a5faf290dc25b",
+        "android_client_info": {
+          "package_name": "com.tomatovr.goa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320272363317-oqk1870jcu11svfd3fk1nlot5j58uemq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomatovr.goa",
+            "certificate_hash": "0b51dbbb6e33e964a985808a8344262ed8ff49ee"
+          }
+        },
+        {
+          "client_id": "320272363317-o1tonvalf3c7ekh7ntsgjqr48lm6dlfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNu1mu97pkIOtxJD8yXpyrE1GsHtx71I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320272363317-o1tonvalf3c7ekh7ntsgjqr48lm6dlfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3903230245761108~6612610584"
+    }
+  ],
+  "configuration_version": "1"
+}

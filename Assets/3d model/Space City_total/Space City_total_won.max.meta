@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 41e5469978b2fdb4e8c2d49b0e3a2048
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Space City_Space launching squadron_01
+    100004: Space City_Space launching squadron_02
+    100006: Space City_Space launching squadron_03
+    100008: base
+    100010: body
+    100012: side_l
+    100014: side_r
+    100016: Base
+    100018: Glass
+    100020: Light
+    100022: 11
+    100024: 11 1
+    100026: building
+    100028: building 1
+    100030: building 2
+    100032: glass
+    100034: glass 1
+    100036: Group001
+    100038: Group002
+    100040: Group003
+    100042: Group004
+    100044: Group005
+    100046: Group007
+    100048: lense
+    100050: lense 1
+    100052: lense 2
+    100054: main
+    100056: main 1
+    100058: Power plant_Fence_array
+    100060: Power plant_light
+    100062: Power plant_main
+    100064: repairshop_light
+    100066: repairshop_main
+    100068: Research Institute_antenna
+    100070: Research Institute_main
+    100072: Research Institute_main_light
+    100074: Research Institute_stand002
+    100076: Research Institute_stand004
+    100078: Research Institute_stand005
+    100080: Research Institute_stand006
+    100082: Research Institute_stand_light002
+    100084: Research Institute_stand_light004
+    100086: Research Institute_stand_light005
+    100088: Research Institute_stand_light006
+    100090: sphere
+    100092: stand003
+    100094: stand004
+    100096: stand005
+    100098: stand006
+    100100: wheel
+    100102: Object001
+    100104: Object002
+    100106: Object003
+    100108: Object017
+    100110: glass2
+    400000: //RootNode
+    400002: Space City_Space launching squadron_01
+    400004: Space City_Space launching squadron_02
+    400006: Space City_Space launching squadron_03
+    400008: base
+    400010: body
+    400012: side_l
+    400014: side_r
+    400016: Base
+    400018: Glass
+    400020: Light
+    400022: 11
+    400024: 11 1
+    400026: building
+    400028: building 1
+    400030: building 2
+    400032: glass
+    400034: glass 1
+    400036: Group001
+    400038: Group002
+    400040: Group003
+    400042: Group004
+    400044: Group005
+    400046: Group007
+    400048: lense
+    400050: lense 1
+    400052: lense 2
+    400054: main
+    400056: main 1
+    400058: Power plant_Fence_array
+    400060: Power plant_light
+    400062: Power plant_main
+    400064: repairshop_light
+    400066: repairshop_main
+    400068: Research Institute_antenna
+    400070: Research Institute_main
+    400072: Research Institute_main_light
+    400074: Research Institute_stand002
+    400076: Research Institute_stand004
+    400078: Research Institute_stand005
+    400080: Research Institute_stand006
+    400082: Research Institute_stand_light002
+    400084: Research Institute_stand_light004
+    400086: Research Institute_stand_light005
+    400088: Research Institute_stand_light006
+    400090: sphere
+    400092: stand003
+    400094: stand004
+    400096: stand005
+    400098: stand006
+    400100: wheel
+    400102: Object001
+    400104: Object002
+    400106: Object003
+    400108: Object017
+    400110: glass2
+    2100000: 'Material #1637'
+    2100002: 'Material #1639'
+    2100004: 'Material #1638'
+    2100006: 'Material #1432'
+    2100008: 'Material #1433'
+    2100010: 'Material #1434'
+    2100012: 1
+    2100014: 'Material #1314'
+    2100016: 02 - Default
+    2100018: 'Material #1178'
+    2100020: 01 - Default
+    2100022: 'Material #2'
+    2100024: 'Material #1'
+    2100026: 'Material #0'
+    2100028: 'Material #4'
+    2100030: 07 - Default
+    2300000: Space City_Space launching squadron_01
+    2300002: Space City_Space launching squadron_02
+    2300004: Space City_Space launching squadron_03
+    2300006: base
+    2300008: body
+    2300010: side_l
+    2300012: side_r
+    2300014: Base
+    2300016: Glass
+    2300018: Light
+    2300020: building
+    2300022: building 1
+    2300024: building 2
+    2300026: glass
+    2300028: glass 1
+    2300030: lense
+    2300032: lense 1
+    2300034: lense 2
+    2300036: main
+    2300038: main 1
+    2300040: Power plant_Fence_array
+    2300042: Power plant_light
+    2300044: Power plant_main
+    2300046: repairshop_light
+    2300048: repairshop_main
+    2300050: Research Institute_antenna
+    2300052: Research Institute_main
+    2300054: Research Institute_main_light
+    2300056: Research Institute_stand002
+    2300058: Research Institute_stand004
+    2300060: Research Institute_stand005
+    2300062: Research Institute_stand006
+    2300064: Research Institute_stand_light002
+    2300066: Research Institute_stand_light004
+    2300068: Research Institute_stand_light005
+    2300070: Research Institute_stand_light006
+    2300072: sphere
+    2300074: wheel
+    2300076: Object001
+    2300078: Object002
+    2300080: Object003
+    2300082: Object017
+    2300084: glass2
+    3300000: Space City_Space launching squadron_01
+    3300002: Space City_Space launching squadron_02
+    3300004: Space City_Space launching squadron_03
+    3300006: base
+    3300008: body
+    3300010: side_l
+    3300012: side_r
+    3300014: Base
+    3300016: Glass
+    3300018: Light
+    3300020: building
+    3300022: building 1
+    3300024: building 2
+    3300026: glass
+    3300028: glass 1
+    3300030: lense
+    3300032: lense 1
+    3300034: lense 2
+    3300036: main
+    3300038: main 1
+    3300040: Power plant_Fence_array
+    3300042: Power plant_light
+    3300044: Power plant_main
+    3300046: repairshop_light
+    3300048: repairshop_main
+    3300050: Research Institute_antenna
+    3300052: Research Institute_main
+    3300054: Research Institute_main_light
+    3300056: Research Institute_stand002
+    3300058: Research Institute_stand004
+    3300060: Research Institute_stand005
+    3300062: Research Institute_stand006
+    3300064: Research Institute_stand_light002
+    3300066: Research Institute_stand_light004
+    3300068: Research Institute_stand_light005
+    3300070: Research Institute_stand_light006
+    3300072: sphere
+    3300074: wheel
+    3300076: Object001
+    3300078: Object002
+    3300080: Object003
+    3300082: Object017
+    3300084: glass2
+    4300000: Space City_Space launching squadron_02
+    4300002: Space City_Space launching squadron_03
+    4300004: Space City_Space launching squadron_01
+    4300006: base
+    4300008: side_r
+    4300010: side_l
+    4300012: body
+    4300014: Base
+    4300016: Light
+    4300018: Glass
+    4300020: lense
+    4300022: building
+    4300024: building
+    4300026: lense
+    4300028: lense
+    4300030: building
+    4300032: main
+    4300034: glass
+    4300036: main
+    4300038: wheel
+    4300040: sphere
+    4300042: glass
+    4300044: Power plant_main
+    4300046: Power plant_light
+    4300048: Power plant_Fence_array
+    4300050: Research Institute_main
+    4300052: Research Institute_antenna
+    4300054: Research Institute_main_light
+    4300056: Research Institute_stand004
+    4300058: Research Institute_stand_light004
+    4300060: Research Institute_stand005
+    4300062: Research Institute_stand_light005
+    4300064: Research Institute_stand002
+    4300066: Research Institute_stand_light002
+    4300068: Research Institute_stand006
+    4300070: Research Institute_stand_light006
+    4300072: repairshop_main
+    4300074: repairshop_light
+    4300076: Object001
+    4300078: Object002
+    4300080: Object003
+    4300082: Object017
+    4300084: glass2
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
